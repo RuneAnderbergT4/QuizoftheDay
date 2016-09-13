@@ -1,0 +1,16 @@
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\bin\Debug\WPF.exe.config
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\bin\Debug\WPF.exe
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\bin\Debug\WPF.pdb
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\bin\Debug\QuoteLib.dll
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\bin\Debug\QuoteLib.pdb
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\obj\Debug\WPF.csprojResolveAssemblyReference.cache
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\obj\Debug\App.g.cs
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\obj\Debug\MainWindow.baml
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\obj\Debug\WPF.g.resources
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\obj\Debug\WPF.csproj.GenerateResource.Cache
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\obj\Debug\WPF.exe
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WPF\obj\Debug\WPF.pdb

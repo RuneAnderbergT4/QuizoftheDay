@@ -1,0 +1,5 @@
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\QuoteLib\bin\Debug\QuoteLib.dll
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\QuoteLib\bin\Debug\QuoteLib.pdb
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\QuoteLib\obj\Debug\QuoteLogic.csprojResolveAssemblyReference.cache
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\QuoteLib\obj\Debug\QuoteLib.dll
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\QuoteLib\obj\Debug\QuoteLib.pdb

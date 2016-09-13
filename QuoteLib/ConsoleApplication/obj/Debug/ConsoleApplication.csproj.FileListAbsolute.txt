@@ -1,0 +1,8 @@
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\ConsoleApplication\bin\Debug\QuoteLib.dll
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\ConsoleApplication\bin\Debug\QuoteLib.pdb
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

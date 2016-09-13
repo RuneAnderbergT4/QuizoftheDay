@@ -1,0 +1,11 @@
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WindowsForms\bin\Debug\QuoteLib.dll
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WindowsForms\bin\Debug\QuoteLib.pdb
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\usr\Google Drive\T4\Quote of the Day\QuoteLib\WindowsForms\obj\Debug\WindowsForms.pdb
